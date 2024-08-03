@@ -1,0 +1,6 @@
+@AwesomeShop.Services.Orders.Api_HostAddress = http://localhost:5262
+
+GET {{AwesomeShop.Services.Orders.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
