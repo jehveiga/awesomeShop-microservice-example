@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\AwesomeShop.Services.Orders.Application\AwesomeShop.Services.Orders.Application.csproj" />
   </ItemGroup>
 
